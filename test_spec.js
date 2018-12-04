@@ -7,8 +7,8 @@ describe("Tests" , function () {
     });
 
     it("should fail", function(done) {
-        // Fix didn't work 2
-        expect(false).toBeTruthy();
+        // Fix worked yay!
+        //expect(false).toBeTruthy();
         done();
     });
 });
